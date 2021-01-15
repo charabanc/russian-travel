@@ -1,8 +1,9 @@
 .cover__link{
-	text-decoration: none;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	text-decoration: none;
+	color: #ffffff;
 }
 
