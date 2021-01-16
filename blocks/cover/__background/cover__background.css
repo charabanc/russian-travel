@@ -11,9 +11,11 @@
 	position: relative;
 	z-index: 1;
 }
-.cover_.cover__background .cover__overlay {
+.cover__background .cover__overlay:hover {
 	opacity: 0.8;
 }
+
+
 @media screen and (max-width: 1185px){
 	.cover__background {
 	  min-height: calc(100vw*740/1184);
