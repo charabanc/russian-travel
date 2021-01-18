@@ -1,13 +1,19 @@
 .lead{
-    padding-bottom: 92px;
+	padding-bottom: 92px;
+	margin: 0 auto;
+}
+@media screen and (max-width: 1025px){
+	.lead{
+		max-width: 100%;
+	}
 }
 @media screen and (max-width: 768px){
-    .lead{
-        padding-bottom: 88px;
-    }
+	.lead{
+		padding-bottom: 88px;
+	}
 }
 @media screen and (max-width: 425px){
-    .lead{
-        padding-bottom: 64px;
-    }
+	.lead{
+		padding-bottom: 64px;
+	}
 }
