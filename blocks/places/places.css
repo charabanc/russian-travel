@@ -8,12 +8,12 @@
 }
 @media screen and (max-width: 1025px){
 	.places{
-		padding: 0 48px 92px;
+		padding: 92px 48px 92px;
 	}
 }
 @media screen and (max-width: 870px){
 	.places{
-		padding: 0 24px 90px;
+		padding: 88px 24px 90px;
 		row-gap: 73px;
 	}
 }
